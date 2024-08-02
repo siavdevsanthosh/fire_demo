@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426528541249",
+    "project_id": "firedemo-ae24b",
+    "storage_bucket": "firedemo-ae24b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426528541249:android:bb4ef97c6c55d692e7d4c0",
+        "android_client_info": {
+          "package_name": "com.example.fire_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANZOuSzTJ3jZyjFLc90rfLsa_gWOMvvQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
